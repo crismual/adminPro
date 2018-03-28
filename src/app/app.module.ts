@@ -12,6 +12,7 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './login/register.component';
 import { FormsModule } from '@angular/forms';
+import { GraficoDonaComponent } from './components/grafico-dona/grafico-dona.component';
 
 
 
